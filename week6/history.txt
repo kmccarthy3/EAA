@@ -1,0 +1,168 @@
+    1  ls -ltr
+    2  sudo gedit /etc/cntlm.conf 
+    3  bg
+    4  cd
+    5  find . -name *.crt -print 2>/dev/null
+    6  cd Downloads/
+    7  ls
+    8  vi eduroam-linux-IoTT_Linux.sh 
+    9  cd
+   10  sudo gedit /etc/cntlm.conf 
+   11  sudo gedit /etc/cntlm.conf 
+   12  bg
+   13  cntlm -M
+   14  cntlm -H
+   15  cntlm -H
+   16  cntlm -H
+   17  cntlm -H
+   18  sudo service cntlm restart
+   19  cntlm -H
+   20  cntlm -H cntlm.conf
+   21  cntlm cntlm.conf -H
+   22  cntlm -H
+   23  cntlm -H www.sun.com
+   24  cntlm -H
+   25  cntlm -H
+   26  ls /etc
+   27  sudo mv /etc/cntlm.conf /etc/cntlm.conf.old
+   28  cntlm -H
+   29  ls
+   30  sudo apt-get remove cntlm
+   31  sudo apt-get install cntlm
+   32  sudo apt-get remove cntlm
+   33  sudo apt-get install cntlm
+   34  sudo service start cntlm
+   35  sudo apt-get install cntlm
+   36  sudo service start 
+   37  sudo service cntlm start
+   38  sudo service cntlm start -v
+   39  sudo apt-get remove cntlm
+   40  sudo apt-get install cntlm
+   41  sudo apt-get remove cntlm
+   42  sudo apt-get install cntlm
+   43  sudo apt-get remove cntlm
+   44  find / -name cntlm.conf -print
+   45  find / -name cntlm.conf -print 2>/dev/nul
+   46  find / -name cntlm.conf -print 2>/dev/null
+   47  sudo apt-get remove cntlm
+   48  sudo apt-get install cntlm
+   49  sudo apt-get install cntlm
+   50  ls /etc/cntlm.conf
+   51  sudo apt-get purge cntlm
+   52  sudo apt-get install cntlm
+   53  find / -name cntlm.conf -print 2>/dev/null
+   54  cntlm -H
+   55  sudo vi /etc/cntlm.conf
+   56  cntlm -H
+   57  fg
+   58  sudo service cntlm restart
+   59  vi eduroam-linux-IoTT_Linux.sh 
+   60  sudo vi /etc/cntlm.conf
+   61  cntlm -M
+   62  cntlm -H -c /etc/cntlm.conf
+   63  cntlm -c /etc/cntlm.conf -H
+   64  cntlm -H
+   65  cntlm -c /etc/cntlm.conf -H
+   66  cntlm -c /etc/cntlm.conf 
+   67  cntlm -H -u jburns@stf
+   68  sudo vi /etc/cntlm.conf
+   69  sudo service cntlm restart
+   70  sudo vi /etc/cntlm.conf
+   71  sudo service cntlm restart
+   72  sudo service cntlm restart
+   73  sudo service cntlm restart
+   74  ls -ltr
+   75  rm *.cer
+   76  ls
+   77  chef
+   78  ls /opt
+   79  /opt/chef/bin/chef-solo
+   80  sudo shutdown -r now
+   81  ls -ltr
+   82  vi .profile 
+   83  chmod hw.sh
+   84  cd home
+   85  cd..
+   86  git clone git@github.com:kmccarthy3/repo.git
+   87  sudo apt-get install git
+   88  sudo -E apt-get install git
+   89  git
+   90  export GIT_SSL_NO_VERIFY=1
+   91  export http_proxy=http://localhost:3128
+   92  git clone https://github.com/kmccarthy3/EAA.git
+   93  ls
+   94  cd EAA
+   95  ls
+   96  mkdir wee6
+   97  rmdir wee6
+   98  mkdir week6
+   99  cd week6/
+  100  git commit
+  101  git config --global user.email "kirstymcc2@gmail.com"
+  102  git config --global user.name "Your Name"
+  103  git config --global user.name "kmccarthy3"
+  104  git commit
+  105  chmod diary.sh
+  106  chmod --help
+  107  diary.sh
+  108  chmod -x diary.sh
+  109  diary.sh
+  110  chmod u+x diary.sh
+  111  diary.sh
+  112  chmod 555 diary.sh
+  113  diary.sh
+  114  chmod +rx diary.sh
+  115  diary.sh
+  116  sh diary.sh
+  117  sh diary.sh
+  118  chmod --help
+  119  chmod go+rx diary.sh
+  120  sh diary.sh
+  121  ls
+  122  gedit diary.sh &
+  123  ls -l
+  124  chmod +w diary.sh
+  125  gedit diary.sh &
+  126  sh diary.sh
+  127  git clone https://github.com/jzburns/EAA.lab.1.git
+  128  git clone https://github.com/kmccarthy3/EAA/week6.git
+  129  git clone https://github.com/kmccarthy3/EAA.git
+  130  git add -A
+  131  git commit -a
+  132  git push origin master
+  133  sh diary.sh
+  134  sh diary.sh
+  135  git add -A
+  136  git commit -a
+  137  git push origin master
+  138  git commit -A
+  139  git add -A
+  140  git commit -a
+  141  git push origin master
+  142  sh ProcessorCount.sh
+  143  sh ProcessorCount.sh
+  144  cd ..
+  145  cd ..
+  146  cd EAA.Week2
+  147  export GIT_SSL_NO_VERIFY=1
+  148  export http_proxy=http://localhost:3128
+  149  git clone https://github.com/kmccarthy3/EAA.Week2.git
+  150  cd EAA.Week2
+  151  cp Processor Count EAA.Week2 EAA
+  152  cd ..
+  153  cp Processor Count EAA.Week2 EAA
+  154  cd EAA.Week2
+  155  cp Processor Count EAA.Week2 EAA
+  156  ls
+  157  cd ..
+  158  ls
+  159  cp EAA.Week2/Processor\ Count EAA/week6/proc_cnt.sh
+  160  cd EAA/week6/
+  161  ls
+  162  git add -A
+  163  git commit
+  164  git push origin master
+  165  history
+  166  cp .bash_history myhistory.txt
+  167  history
+  168  history > history.txt
