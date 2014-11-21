@@ -1,0 +1,131 @@
+    1  ls -ltr
+    2  sudo gedit /etc/cntlm.conf 
+    3  bg
+    4  cd
+    5  find . -name *.crt -print 2>/dev/null
+    6  cd Downloads/
+    7  ls
+    8  vi eduroam-linux-IoTT_Linux.sh 
+    9  cd
+   10  sudo gedit /etc/cntlm.conf 
+   11  sudo gedit /etc/cntlm.conf 
+   12  bg
+   13  cntlm -M
+   14  cntlm -H
+   15  cntlm -H
+   16  cntlm -H
+   17  cntlm -H
+   18  sudo service cntlm restart
+   19  cntlm -H
+   20  cntlm -H cntlm.conf
+   21  cntlm cntlm.conf -H
+   22  cntlm -H
+   23  cntlm -H www.sun.com
+   24  cntlm -H
+   25  cntlm -H
+   26  ls /etc
+   27  sudo mv /etc/cntlm.conf /etc/cntlm.conf.old
+   28  cntlm -H
+   29  ls
+   30  sudo apt-get remove cntlm
+   31  sudo apt-get install cntlm
+   32  sudo apt-get remove cntlm
+   33  sudo apt-get install cntlm
+   34  sudo service start cntlm
+   35  sudo apt-get install cntlm
+   36  sudo service start 
+   37  sudo service cntlm start
+   38  sudo service cntlm start -v
+   39  sudo apt-get remove cntlm
+   40  sudo apt-get install cntlm
+   41  sudo apt-get remove cntlm
+   42  sudo apt-get install cntlm
+   43  sudo apt-get remove cntlm
+   44  find / -name cntlm.conf -print
+   45  find / -name cntlm.conf -print 2>/dev/nul
+   46  find / -name cntlm.conf -print 2>/dev/null
+   47  sudo apt-get remove cntlm
+   48  sudo apt-get install cntlm
+   49  sudo apt-get install cntlm
+   50  ls /etc/cntlm.conf
+   51  sudo apt-get purge cntlm
+   52  sudo apt-get install cntlm
+   53  find / -name cntlm.conf -print 2>/dev/null
+   54  cntlm -H
+   55  sudo vi /etc/cntlm.conf
+   56  cntlm -H
+   57  fg
+   58  sudo service cntlm restart
+   59  vi eduroam-linux-IoTT_Linux.sh 
+   60  sudo vi /etc/cntlm.conf
+   61  cntlm -M
+   62  cntlm -H -c /etc/cntlm.conf
+   63  cntlm -c /etc/cntlm.conf -H
+   64  cntlm -H
+   65  cntlm -c /etc/cntlm.conf -H
+   66  cntlm -c /etc/cntlm.conf 
+   67  cntlm -H -u jburns@stf
+   68  sudo vi /etc/cntlm.conf
+   69  sudo service cntlm restart
+   70  sudo vi /etc/cntlm.conf
+   71  sudo service cntlm restart
+   72  sudo service cntlm restart
+   73  sudo service cntlm restart
+   74  ls -ltr
+   75  rm *.cer
+   76  ls
+   77  chef
+   78  ls /opt
+   79  /opt/chef/bin/chef-solo
+   80  sudo shutdown -r now
+   81  ls -ltr
+   82  vi .profile 
+   83  history | grep
+   84  export GIT_SSL_NO_VERIFY=1
+   85  export http_proxy=http://localhost:3128
+   86  git config --global user.email "kirstymcc2@gmail.com"
+   87  ls
+   88  sudo -E apt-get install git
+   89  git config --global user.email "kirstymcc2@gmail.com"
+   90  git config --global user.name "kmccarthy3"
+   91  git clone https://github.com/kmccarthy3/EAA.git
+   92  cd EAA
+   93  mkdir week10
+   94  cd week10
+   95  sudo su - tdi
+   96  sudo chef -apply add.tdi.rb
+   97  sudo chef-apply add.tdi.rb
+   98  sudo chef-apply add.tdi.rb
+   99  sudo chef-apply add.tdi.rb
+  100  sudo su - tdi
+  101  sudo su - tdi
+  102  sudo chef-apply add.tdi.rb
+  103  sudo chef-apply add.tdi.rb
+  104  sudo su - tdi
+  105  sudo chef-apply add.tdi.rb
+  106  sudo su - tdi
+  107  sudo su - tdi
+  108  sudo chef-apply add.tdi.rb
+  109  sudo chef-apply add.eaa.rb
+  110  sudo su - eaa
+  111  sudo chef-apply add.tdi.rb
+  112  sudo chef-apply add.tdi.rb
+  113  sudo chef-apply add.tdi.file.rb
+  114  sudo su - tdi
+  115  sudo chef-apply add.tdi.file.rb
+  116  sudo chef-apply add.tdi.file.rb
+  117  sudo chef-apply add.tdi.file.rb
+  118  sudo chef-apply config.dat.rb
+  119  sudo su - eaa
+  120  sudo chef-apply add.eaa.rb.rb
+  121  sudo chef-apply add.eaa.rb
+  122  sudo su - eaa
+  123  sudo chef-apply add.eaa.file.rb
+  124  sudo su - eaa
+  125  ps -ef
+  126  ps -ef | grep apache
+  127  sudo -E chef-apply add.apache2.rb
+  128  sudo -E chef-apply add.apache2.rb
+  129  sudo -E chef-apply add.sysstat.rb
+  130  mpstat
+  131  history > history.txt
